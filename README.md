@@ -1,6 +1,10 @@
 # AppDevHackChallenge
 
 ## Get all players
+Challenge with Friends is a multiplayer game in which players compete to finish the most challenges to earn points and score high on the leaderboard.
+This is only the backend portion of the project which has contributions from Lucy Beck, Travis Zhang, and Tanay Menezes.
+
+## Get all players
 
 **GET** `/api/players/`
 
