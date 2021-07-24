@@ -1,6 +1,4 @@
-# AppDevHackChallenge
-
-## Get all players
+# Cornell AppDev Hack Challenge Overall Winner: Challenge With Friends
 Challenge with Friends is a multiplayer game in which players compete to finish the most challenges to earn points and score high on the leaderboard.
 This is only the backend portion of the project which has contributions from Lucy Beck, Travis Zhang, and Tanay Menezes.
 
